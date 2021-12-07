@@ -27,7 +27,7 @@ Add topics
 
 Require the package via composer
 ```bash
-composer require adrianbarbos/mobilpay
+composer require dark4ce/mobilpay
 ```
 
 Or add the package to your `composer.json` file.
