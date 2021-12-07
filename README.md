@@ -35,7 +35,7 @@ Or add the package to your `composer.json` file.
 ```json
 {
     "require": {
-        "dark4ce/mobilpay": "^1.0"
+        "dark4ce/mobilpay": "^1.1"
     }
 }
 ```
