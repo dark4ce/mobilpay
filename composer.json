@@ -1,19 +1,20 @@
 {
-    "name": "adrianbarbos/mobilpay",
-    "description": "Laravel 5 mobilpay wrapper around omnipay with omnipay-mobilpay driver",
+    "name": "dark4ce/mobilpay",
+    "description": "Laravel 5 mobilpay wrapper around omnipay with omnipay-mobilpay driver based on adrianbarbos/mobilpay wrapper but using daika7ana/omnipay-mobilpay maintained driver",
+
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "adrianbarbos",
-            "email": "ady.barbos@gmail.com"
+            "name": "dark4ce",
+            "email": "nitzacatalin@yahoo.com"
         }
     ],
     "require": {
-        "php": ">=5.3.0",
+        "php": ">=5.4",
         "illuminate/support": "5.* || 6.* || 7.* || 8.*",
         "omnipay/common": "~3.0",
-        "adrianbarbos/omnipay-mobilpay": "~1.2.1"
+        "daika7ana/omnipay-mobilpay": "~1.3.0"
     },
 
     "autoload" : {
